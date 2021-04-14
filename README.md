@@ -40,12 +40,14 @@ Here are some ideas to get you started:
 
   <br />
   
-[![Yitzhak's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-  <br />
+  <div>
   
-  [![Yitzhak's github stats](https://github-readme-stats.vercel.app/api?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Yitzhak's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Yitzhak's github stats](https://github-readme-stats.vercel.app/api?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </div>
+  
   <br />
 
 </div>
