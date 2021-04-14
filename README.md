@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<h3>Statistics</h3>
+<h3 align="center">Statistics</h3>
 
 <br />
 
