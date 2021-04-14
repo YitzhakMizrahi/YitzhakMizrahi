@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
 ### Hi there I'm [Yitzhak!](https://www.ymizrahi.com) 👋
 #### I'm a Full-Stack Developer
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<h3 align="center">Statistics</h3>
+<h3>Statistics</h3>
 
 <br />
 
@@ -46,5 +46,7 @@ Here are some ideas to get you started:
 [![Yitzhak's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
+
+</div>
 
 *************
