@@ -27,9 +27,8 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/aviparshan/">
     <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-
-  <a align="center" href="https://github.com/YitzhakMizrahi">
-    <img alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <a href="https://github.com/YitzhakMizrahi">
+    <img align="center" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 
 [![GitHub YitzhakMizrahi](https://img.shields.io/github/followers/YitzhakMizrahi?label=follow&style=social)](https://github.com/YitzhakMizrahi)
