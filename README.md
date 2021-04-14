@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Hi there I'm [Yitzhak!](https://www.ymizrahi.com) 👋
 #### I'm a Full-Stack Developer
 
-<br/>
+<br />
 <a href="https://www.facebook.com/mizrahiyitzhak">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 [![GitHub YitzhakMizrahi](https://img.shields.io/github/followers/YitzhakMizrahi?label=follow&style=social)](https://github.com/YitzhakMizrahi)
 
 *************
+
+<br />
 
 <h3>Statistics</h3>
 
