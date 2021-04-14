@@ -12,43 +12,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  
-  ### Hi there I'm [Yitzhak!](https://www.ymizrahi.com) 👋
-  #### I'm a Full-Stack Developer
+### Hi there I'm [Yitzhak!](https://www.ymizrahi.com) 👋
+#### I'm a Full-Stack Developer
 
-  <br/>
-  <a href="https://www.facebook.com/mizrahiyitzhak">
-    <img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/aviparshan/">
-    <img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://www.instagram.com/aviparshan/">
-    <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-  <a href="https://github.com/YitzhakMizrahi">
-    <img align="center" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
+<br/>
+<a href="https://www.facebook.com/mizrahiyitzhak">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.linkedin.com/in/aviparshan/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/aviparshan/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://github.com/YitzhakMizrahi">
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 [![GitHub YitzhakMizrahi](https://img.shields.io/github/followers/YitzhakMizrahi?label=follow&style=social)](https://github.com/YitzhakMizrahi)
 
-  <br />
+<br />
 
-  <h3>Statistics</h3>
+<h3>Statistics</h3>
 
-  <br />
-  
-  <div>
-  
+<br />
+
+<div>
+
 [![Yitzhak's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-  
+
 [![Yitzhak's github stats](https://github-readme-stats.vercel.app/api?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-  
-  </div>
-  
-  <br />
 
 </div>
+
+<br />
 
 *************
