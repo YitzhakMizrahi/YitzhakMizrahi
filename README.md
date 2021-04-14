@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 <br />
 
-<br />
-
 [![Yitzhak's github stats](https://github-readme-stats.vercel.app/api?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
