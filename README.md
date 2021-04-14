@@ -27,6 +27,12 @@ Here are some ideas to get you started:
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<a align="center" href="https://github.com/YitzhakMizrahi">
+  <img align="left" alt="Rozen's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+[![GitHub YitzhakMizrahi](https://img.shields.io/github/followers/YitzhakMizrahi?label=follow&style=social)](https://github.com/YitzhakMizrahi)
+
 <br />
 
 <br />
