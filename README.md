@@ -32,12 +32,6 @@ Here are some ideas to get you started:
 [![GitHub YitzhakMizrahi](https://img.shields.io/github/followers/YitzhakMizrahi?label=follow&style=social)](https://github.com/YitzhakMizrahi)
 
 <br />
-
-*************
-
-<h3>Statistics</h3>
-
-<br />
   
 [![Yitzhak's github stats](https://github-readme-stats.vercel.app/api?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
