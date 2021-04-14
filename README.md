@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there I'm [Yitzhak!](https://www.ymizrahi.com) 👋
-#### I'm a Full-Stack Developer
+# Hi there I'm [Yitzhak!](https://www.ymizrahi.com) :headphones: :video_game: :surfer: 👋
+### I'm a Full-Stack Developer
 
 <br />
 <a href="https://www.linkedin.com/in/mizrahiyitzhak/">
