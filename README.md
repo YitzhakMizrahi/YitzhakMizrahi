@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 [![GitHub YitzhakMizrahi](https://img.shields.io/github/followers/YitzhakMizrahi?label=follow&style=social)](https://github.com/YitzhakMizrahi)
 
-<br />
+*************
 
 <h3>Statistics</h3>
 
