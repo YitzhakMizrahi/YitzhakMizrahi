@@ -29,22 +29,22 @@ Here are some ideas to get you started:
   </a>
 
   <a align="center" href="https://github.com/YitzhakMizrahi">
-    <img align="center" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 
-  [![GitHub YitzhakMizrahi](https://img.shields.io/github/followers/YitzhakMizrahi?label=follow&style=social)](https://github.com/YitzhakMizrahi)
+[![GitHub YitzhakMizrahi](https://img.shields.io/github/followers/YitzhakMizrahi?label=follow&style=social)](https://github.com/YitzhakMizrahi)
 
   <br />
 
   <h3>Statistics</h3>
 
   <br />
-
-  [![Yitzhak's github stats](https://github-readme-stats.vercel.app/api?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Yitzhak's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
   <br />
-
-  [![Yitzhak's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Yitzhak's github stats](https://github-readme-stats.vercel.app/api?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
   <br />
 
