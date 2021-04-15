@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitzhakMizrahi&show_icons=true&theme=nord" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitzhakMizrahi&hide=Handlebars&show_icons=true&theme=nord" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord" />
 
 
