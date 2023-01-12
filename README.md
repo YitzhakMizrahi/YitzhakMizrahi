@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord" />
 -->
 
-[![Yitzhak's github stats](https://github-readme-stats.vercel.app/api?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Yitzhak's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
