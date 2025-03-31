@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="./banner.jpg" alt="GitHub banner" width="100%" />
+<img src="./banner-v2.jpg" alt="GitHub banner" width="100%" />
 </p>
 
 # Hi there I'm [Yitzhak!](https://www.ymizrahi.com) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
