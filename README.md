@@ -1,59 +1,53 @@
-<!--
-**YitzhakMizrahi/YitzhakMizrahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
-<img src="./banner.jpg" alt="GitHub banner" width="100%" />
+  <img src="./banner.jpg" alt="GitHub banner" width="100%" />
 </p>
 
-# Hi there I'm [Yitzhak!](https://www.ymizrahi.com) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+---
 
-### I'm a Full-Stack Developer :headphones::video_game::surfer: 
+I'm a full-stack developer who values simplicity, clean code, and meaningful abstractions.  
+Primarily working in **Python**, **TypeScript**, and modern frameworks like **Next.js** and **React**,  
+I care deeply about building things that are calm, functional, and quietly powerful.
 
-<br />
-<a href="https://www.linkedin.com/in/mizrahiyitzhak/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/mizrahiyitzhak">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/accounts/login/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://github.com/YitzhakMizrahi">
-  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+- 🛠 Focused on backend-heavy full-stack systems
+- 🌱 Always learning — currently exploring modular control planes & async workflows
+- ⚙️ Working with AI-augmented dev tools like Cursor IDE to move fast without the noise
+- 🧠 Thoughtful by nature, obsessed with clean architecture
 
-[![GitHub YitzhakMizrahi](https://img.shields.io/github/followers/YitzhakMizrahi?label=follow&style=social)](https://github.com/YitzhakMizrahi)
+---
 
-## :wrench: Technologies
+## 🧰 Tech Stack
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![TypeScript](https://img.icons8.com/color/30/typescript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![NextJS](https://img.icons8.com/color/30/nextjs.png)![Redux](https://img.icons8.com/color/30/redux.png)![GraphQL](https://img.icons8.com/color/30/graphql.png)![Python](https://img.icons8.com/color/30/python.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![MongoDB](https://img.icons8.com/color/30/mongodb.png)![MySQL](https://img.icons8.com/color/30/mysql.png)![SQL](https://img.icons8.com/color/30/sql.png)![SASS](https://img.icons8.com/color/30/sass.png)![Material-Ui](https://img.icons8.com/color/30/material-ui.png)![Bootstrap](https://img.icons8.com/color/30/bootstrap.png)![Heroku](https://img.icons8.com/color/30/heroku.png)![AWS](https://img.icons8.com/color/30/amazon-web-services.png)![!firebase](https://img.icons8.com/color/30/firebase.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/color/30/console.png)
-<!--
-## :chart_with_upwards_trend: GitHub Stats
--->
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitzhakMizrahi&hide=Handlebars&show_icons=true&theme=nord" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord" />
--->
-<!--
-[![Yitzhak's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
--->
+**Backend**  
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
 
-<!--
-[![Yitzhak's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YitzhakMizrahi&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
--->
+**Frontend**  
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
-<br />
+**Tools**  
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org)
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
+[![Cursor](https://img.shields.io/badge/Cursor_IDE-444444?style=flat&logoColor=white)](https://www.cursor.so)
 
-*************
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mizrahiyitzhak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yitzhak.tech@email.com">
+    <img src="https://img.shields.io/badge/Email-8B89CC?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/YitzhakMizrahi">
+    <img src="https://img.shields.io/github/followers/YitzhakMizrahi?label=Follow&style=social" />
+  </a>
+</p>
+
+<p align="center"><sub><em>:: yzk — signal over noise</em></sub></p>
