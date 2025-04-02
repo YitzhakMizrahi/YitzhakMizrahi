@@ -10,8 +10,9 @@ I care deeply about building things that are calm, functional, and quietly power
 
 - 🛠 Focused on backend-heavy full-stack systems
 - 🌱 Always learning — currently exploring modular control planes & async workflows
-- ⚙️ Working with AI-augmented dev tools like Cursor IDE to move fast without the noise
+- ⚙️ Working with AI-augmented dev tools like Cursor IDE — to move fast without the noise
 - 🧠 Thoughtful by nature, obsessed with clean architecture
+- 🧩 I reach for **Python + FastAPI** when building API-first backends, and **Node.js + Prisma** for full-stack TypeScript systems
 
 ---
 
@@ -20,8 +21,11 @@ I care deeply about building things that are calm, functional, and quietly power
 **Backend**  
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF281F?style=flat&logoColor=white)](https://www.sqlalchemy.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)](https://www.prisma.io)
 
 **Frontend**  
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
