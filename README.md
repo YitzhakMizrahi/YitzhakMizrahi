@@ -4,17 +4,18 @@
 
 ---
 
-No tech loyalty. No overengineering.  
-I work at the intersection of clarity, control, and composability.
+I build systems that reduce noise and reward clarity.  
+Some run in the terminal. Some run in the browser. Some just run quietly.
 
-The tools change.  
-The principle stays: **cut the noise, amplify the signal**.
+I don't subscribe to one stack or one paradigm.  
+Tools are chosen by intent, not allegiance.  
+AI helps. So does silence.
 
+If something feels wrong, I refactor it.  
+If something feels right, I sharpen it.
 ---
 
-## 🧰 Selected Tech
-
-> Tools I reach for — not tied to — based on project needs:
+## 🧰 Tech I Reach For
 
 **Backends & APIs**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
@@ -31,13 +32,13 @@ The principle stays: **cut the noise, amplify the signal**.
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Dev Tools & Infra**  
-![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-444444?style=flat&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-I use Neovim for quick, precise edits in the terminal — and Cursor for deep work across complex codebases.
+Neovim for precision. Cursor for depth.
 
 ---
 
