@@ -13,6 +13,7 @@ AI helps. So does silence.
 
 If something feels wrong, I refactor it.  
 If something feels right, I sharpen it.
+
 ---
 
 ## 🧰 Tech I Reach For
