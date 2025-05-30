@@ -45,7 +45,7 @@ Neovim for precision. Cursor for depth.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mizrahiyitzhak" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" />
   </a>
   <a href="mailto:yitzhak.tech@email.com">
     <img src="https://img.shields.io/badge/Email-8B89CC?style=flat&logo=gmail&logoColor=white" />
