@@ -25,6 +25,8 @@ If something feels right, I sharpen it.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+![Convex](https://img.shields.io/badge/Convex-FF6F00?style=flat&logo=data:image/svg+xml;base64,[base64-encoded-logo]&logoColor=white)
 
 **Frontend & Fullstack**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -47,7 +49,7 @@ Neovim for precision. Cursor for depth.
   <a href="https://www.linkedin.com/in/mizrahiyitzhak" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" />
   </a>
-  <a href="mailto:yitzhak.tech@email.com">
+  <a href="mailto:yitzhak.tech@gmail.com">
     <img src="https://img.shields.io/badge/Email-8B89CC?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/YitzhakMizrahi">
