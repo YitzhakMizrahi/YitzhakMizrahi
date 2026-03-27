@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 22">
+  <rect width="78" height="22" rx="11" fill="#161622" stroke="#2a2a3e" stroke-width="0.5"/>
+  <g transform="translate(8, 5) scale(0.5)">
+    <path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#4a9eff"/>
+  </g>
+  <text x="26" y="11" dy="0.35em" fill="#c8c8d4" font-family="'SF Mono','Fira Code','Cascadia Code','JetBrains Mono','Consolas',monospace" font-size="10" letter-spacing="1.5">Email</text>
+</svg>
