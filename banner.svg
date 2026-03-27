@@ -177,19 +177,19 @@
 
   <!-- :: — 5s cycle, snaps at t=0 (counterpoint: fires when dot is dimmest) -->
   <!-- Base opacity 0.2: always a ghost present, even at rest -->
-  <text x="490" y="152" font-family="'SF Mono','Fira Code','Cascadia Code','JetBrains Mono','Consolas',monospace" font-size="24" fill="#4a9eff" letter-spacing="3" opacity="0.2">
+  <text x="475" y="150" font-family="'SF Mono','Fira Code','Cascadia Code','JetBrains Mono','Consolas',monospace" font-size="30" fill="#4a9eff" letter-spacing="3" opacity="0.2">
     ::
     <animate attributeName="opacity" values="0.2;0.5;0.2" dur="5s" keyTimes="0;0.06;1" calcMode="spline" keySplines="0.9 0 1 1; 0 0 0.06 1" repeatCount="indefinite"/>
   </text>
 
   <!-- yzk — gradient shine + opacity breath, 5s synced with dot -->
-  <text x="550" y="152" font-family="'SF Mono','Fira Code','Cascadia Code','JetBrains Mono','Consolas',monospace" font-size="78" font-weight="300" fill="url(#textShine)" letter-spacing="16">
+  <text x="535" y="150" font-family="'SF Mono','Fira Code','Cascadia Code','JetBrains Mono','Consolas',monospace" font-size="96" font-weight="300" fill="url(#textShine)" letter-spacing="18">
     yzk
     <animate attributeName="opacity" values="0.84;0.98;0.98;0.84" dur="5s" keyTimes="0;0.35;0.65;1" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.1 0 0.9 1; 0.4 0 0.6 1"/>
   </text>
 
   <!-- signal over noise. — completely still. The quietest element. Muted system blue. -->
-  <text x="640" y="230" text-anchor="middle" font-family="'SF Mono','Fira Code','Cascadia Code','JetBrains Mono','Consolas',monospace" font-size="15" fill="#4a6a8a" letter-spacing="8" opacity="0.45">
+  <text x="640" y="238" text-anchor="middle" font-family="'SF Mono','Fira Code','Cascadia Code','JetBrains Mono','Consolas',monospace" font-size="22" fill="#5a7a9a" letter-spacing="8" opacity="0.6">
     signal over noise.
   </text>
 </svg>
