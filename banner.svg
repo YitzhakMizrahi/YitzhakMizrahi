@@ -177,9 +177,9 @@
 
   <!-- :: — 5s cycle, snaps at t=0 (counterpoint: fires when dot is dimmest) -->
   <!-- Base opacity 0.2: always a ghost present, even at rest -->
-  <text x="475" y="150" font-family="'SF Mono','Fira Code','Cascadia Code','JetBrains Mono','Consolas',monospace" font-size="30" fill="#4a9eff" letter-spacing="3" opacity="0.2">
+  <text x="470" y="130" font-family="'SF Mono','Fira Code','Cascadia Code','JetBrains Mono','Consolas',monospace" font-size="35" fill="#4a9eff" letter-spacing="3" opacity="0.28">
     ::
-    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="5s" keyTimes="0;0.06;1" calcMode="spline" keySplines="0.9 0 1 1; 0 0 0.06 1" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.28;0.55;0.28" dur="5s" keyTimes="0;0.06;1" calcMode="spline" keySplines="0.9 0 1 1; 0 0 0.06 1" repeatCount="indefinite"/>
   </text>
 
   <!-- yzk — gradient shine + opacity breath, 5s synced with dot -->

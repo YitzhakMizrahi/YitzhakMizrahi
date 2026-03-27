@@ -20,10 +20,10 @@ If something feels right, I sharpen it.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mizrahiyitzhak" target="_blank">
-    <img src="./linkedin-badge.svg" alt="LinkedIn" height="28" />
+    <img src="./linkedin-badge.svg" alt="LinkedIn" height="36" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:yitzhak.tech@gmail.com">
-    <img src="./email-badge.svg" alt="Email" height="28" />
+    <img src="./email-badge.svg" alt="Email" height="36" />
   </a>
 </p>
