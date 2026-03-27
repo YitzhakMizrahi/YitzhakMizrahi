@@ -12,4 +12,6 @@ AI helps. So does silence.
 If something feels wrong, I refactor it.  
 If something feels right, I sharpen it.
 
-<p align="center"><sub>Rust · Go · Python · TypeScript · Docker · PostgreSQL · Redis · Linux</sub></p>
+---
+
+Rust · Go · Python · TypeScript · Docker · PostgreSQL · Redis · Linux
